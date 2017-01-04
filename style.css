@@ -1,0 +1,30 @@
+h1
+{
+ width:auto;
+ height:auto;
+ margin:0px;
+ padding:20px;
+ float:left;
+ color:blue;
+ font-size:6.5em;
+}
+
+header
+{
+ display:inline-block;
+ background-color:orange;
+ width:100%;
+ text-align:center;
+ height:auto;
+ background-image:url("book.jpg");
+}
+
+div.login
+{
+ color:black;
+ float:right;
+ margin:0px;
+ width:auto;
+ height:auto;
+ padding:20px;
+}
